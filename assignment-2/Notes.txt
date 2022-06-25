@@ -1,0 +1,2 @@
+# set date
+sudo date +%Y%m%d -s 20180101
